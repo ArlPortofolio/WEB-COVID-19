@@ -1,0 +1,101 @@
+body {
+  margin: 3px;
+  background-image: radial-gradient(
+    circle at 50% -20.71%,
+    #ffe7d5 0,
+    #ffe8d2 6.25%,
+    #ffe9cf 12.5%,
+    #ffebce 18.75%,
+    #ffeccc 25%,
+    #ffeecb 31.25%,
+    #fcefcb 37.5%,
+    #f7f1cc 43.75%,
+    #f2f2cd 50%,
+    #edf3cf 56.25%,
+    #e7f5d1 62.5%,
+    #e2f6d4 68.75%,
+    #ddf7d7 75%,
+    #d8f8db 81.25%,
+    #d3f9df 87.5%,
+    #cff9e3 93.75%,
+    #cbfae8 100%
+  );
+}
+
+#navbarCovid {
+  background-image: radial-gradient(
+    circle at 50% -20.71%,
+    #badbff 0,
+    #c2daff 6.25%,
+    #c9d8ff 12.5%,
+    #d0d6ff 18.75%,
+    #d8d4ff 25%,
+    #dfd2fe 31.25%,
+    #e6d0fa 37.5%,
+    #eccff6 43.75%,
+    #f2cdf2 50%,
+    #f7cced 56.25%,
+    #fccbe8 62.5%,
+    #ffcae2 68.75%,
+    #ffc9dd 75%,
+    #ffc9d7 81.25%,
+    #ffc9d1 87.5%,
+    #ffc9cc 93.75%,
+    #ffcac6 100%
+  );
+
+  border-radius: 20px;
+}
+
+#table-corona1 {
+  width: 800px;
+  border: 2px solid black;
+  border-radius: 10px;
+  text-align: center;
+  margin: 50px auto;
+  box-shadow: 0px 30px 10px -20px rgba(0, 0, 0, 0.75);
+  transition: 0.3s;
+}
+
+#table-corona1:hover {
+  box-shadow: 0px 50px 10px -40px rgba(54, 40, 40, 0.15);
+  margin: 40px auto;
+}
+
+#table-corona2 {
+  width: 800px;
+  border: 2px solid black;
+  border-radius: 10px;
+  text-align: center;
+  margin: 50px auto;
+  box-shadow: 0px 30px 10px -20px rgba(0, 0, 0, 0.75);
+  transition: 0.3s;
+}
+
+#table-corona2:hover {
+  box-shadow: 0px 50px 10px -40px rgba(54, 40, 40, 0.15);
+  margin: 40px auto;
+}
+
+#table-corona3 {
+  width: 800px;
+  border: 2px solid black;
+  border-radius: 10px;
+  text-align: center;
+  margin: 50px auto;
+  box-shadow: 0px 30px 10px -20px rgba(0, 0, 0, 0.75);
+  transition: 0.3s;
+}
+
+#table-corona3:hover {
+  box-shadow: 0px 50px 10px -40px rgba(54, 40, 40, 0.15);
+  margin: 40px auto;
+}
+
+p#dataTable {
+  color: salmon;
+}
+
+#jumlah {
+  color: red;
+}
